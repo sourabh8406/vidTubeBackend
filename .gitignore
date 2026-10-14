@@ -1,0 +1,6 @@
+.env
+.env.sample
+node_modules
+src/.env
+src/.env.sample
+src/readme.md
